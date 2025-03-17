@@ -1,16 +1,18 @@
-# task_whisper
+# Task Whisper
 
-A new Flutter project.
+In this repository, you will find my app, Task Whisper, which I am developing as a "Daily Todo App." The main idea is to track my routine tasks that I need to complete every day. I also want to create a reward system (maybe something like RPG leveling?) and implement smart notifications based on when the user previously completed tasks.
 
-## Getting Started
+Note: This app is made for Android devices. Because of Flutter it is likely that you could run this app on any other devices, but for now I am developing only for Android.
 
-This project is a starting point for a Flutter application.
+### Windows Project Setup
 
-A few resources to get you started if this is your first Flutter project:
+Download project. In the terminal in the folder:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. flutter pub get
+2. flutter run
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Prerequisites: Android SDK (Android Studio) and Flutter installed..
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
